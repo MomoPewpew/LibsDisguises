@@ -22,7 +22,7 @@
 
     <build>
         <defaultGoal>exec:java clean install</defaultGoal>
-        <finalName>LibsDisguises</finalName>
+        <finalName>LibsDisguises-DvZ</finalName>
 
         <resources>
             <resource>

@@ -31,7 +31,7 @@
         </includes>
       </resource>
     </resources>
-    <finalName>LibsDisguises</finalName>
+    <finalName>LibsDisguises-DvZ</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-jar-plugin</artifactId>
